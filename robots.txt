@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://klaughtu.github.io/sitemap.klaughtu.gz
+Sitemap: https://klaughtu.github.io/app/sitemap.klaughtu.gz
+Sitemap: https://klaughtu.github.io/assets/sitemap.klaughtu.gz
+Sitemap: https://klaughtu.github.io/css/sitemap.klaughtu.gz
+Sitemap: https://klaughtu.github.io/data/sitemap.klaughtu.gz
+Sitemap: https://klaughtu.github.io/includes/sitemap.klaughtu.gz
+Sitemap: https://klaughtu.github.io/item/sitemap.klaughtu.gz
+Sitemap: https://klaughtu.github.io/src/sitemap.klaughtu.gz
